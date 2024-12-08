@@ -1,6 +1,6 @@
 # Landing Page Project
 
-### It is a web landing page I have built in my Front Web Development course with Udacity, in which I have practised different skills I have learned, like creating and styling element by JS, adding and removing event listener, functions, different types of for loop and if condition.
+### It is a web landing page I have built in my Front Web Development course with Udacity, in which I have practiced different skills I have learned, like creating and styling element by JS, adding and removing event listener, functions, different types of for loop and if condition.
 
 ### The project is provided by comments which will help you read the code easily.
 
